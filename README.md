@@ -1,1 +1,1 @@
-# APP_cadastro_s---ries_NET
+# Aplicativo de cadastro de séries em .NET
